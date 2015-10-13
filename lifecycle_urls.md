@@ -1,6 +1,6 @@
 # URLS of Interest
 
-## WebSphere Products ##
+## IBM WebSphere Products ##
   http://www-01.ibm.com/software/websphere/support/lifecycle/
 
 ## Oracle Database ##
@@ -9,7 +9,7 @@
 - A little cumbersome to parse 
 - Not sure using wiki data is a good idea for accuracy state?
   
-## WebMethods IS ##
+## Software AG WebMethods IS ##
 https://en.wikipedia.org/wiki/WebMethods_Integration_Server#Release_history
 
 - A little cumbersome to parse 
