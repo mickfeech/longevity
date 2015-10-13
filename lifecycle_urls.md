@@ -5,8 +5,12 @@
 
 ## Oracle Database ##
   http://www.orafaq.com/wiki/Oracle_database#Database_features
-  A little cumbersome to parse not sure using wiki data is a good idea for accuracy state?
+  
+- A little cumbersome to parse 
+- Not sure using wiki data is a good idea for accuracy state?
   
 ## WebMethods IS ##
-  https://en.wikipedia.org/wiki/WebMethods_Integration_Server#Release_history
-   A little cumbersome to parse not sure using wiki data is a good idea for accuracy state?
+https://en.wikipedia.org/wiki/WebMethods_Integration_Server#Release_history
+
+- A little cumbersome to parse 
+- Not sure using wiki data is a good idea for accuracy state?
