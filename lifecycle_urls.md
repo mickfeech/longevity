@@ -35,14 +35,14 @@
   https://en.wikipedia.org/wiki/IBM_AIX
 
 ## IBM Cognos
-- Multiple products that can be deployed need a list that we'd care about initially prior to parsing everything  
+- Multiple products that can be deployed need a list that add most value for initial run  
 
 ## IBM DB2
   https://en.wikipedia.org/wiki/IBM_DB2
   
 ## IBM FileNet
   http://www-01.ibm.com/software/support/lifecycle/index_f.html
-- Multiple products that can be deployed need a list that we'd care about initially prior to parsing everything  
+- Multiple products that can be deployed need a list that add most value for initial run  
 
 ## IBM WebSphere Products
   http://www-01.ibm.com/software/websphere/support/lifecycle/
