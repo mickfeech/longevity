@@ -1,5 +1,3 @@
-require "longevity/version"
-
-module Longevity
-  # Your code goes here...
-end
+require 'longevity/version'
+require 'longevity/gather'
+require 'longevity/products'
