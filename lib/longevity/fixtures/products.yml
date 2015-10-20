@@ -1,37 +1,148 @@
-- Apache HTTP Server
-- Apache Solr
-- Apache Subversion
-- Apache Tomcat
-- CentOS
-- Debian
-- Docker
-- Git
-- IBM AIX
-- IBM DB2
-- IBM FileNet
-- IBM WebSphere Application Server
-- IBM Business Process Management
-- IBM Security Access Manager
-- JBoss
-- Lucene
-- MariaDB
-- Microsoft .NET Framework
-- Microsoft SQL Server
-- Microsoft SQL Server Integration Services
-- Microsoft SQL Server Reporting Services
-- MongoDB
-- MySQL
-- nginx
-- Oracle Database
-- Oracle WebLogic
-- Perl
-- PHP
-- PostgreSQL
-- Python
-- RHEL
-- Software AG WebMethods Integration Server
-- Solaris
-- Splunk
-- Sybase Adaptive Server Enterprise
-- Ubuntu
-- Zenoss
+  -
+    :name: Apache HTTP Server
+    :web: https://en.wikipedia.org/wiki/Apache_HTTP_Server
+    :version_test: Stable release
+  -
+    :name: Apache Solr
+    :web: https://en.wikipedia.org/wiki/Apache_Solr
+    :version_test: Stable release
+  -
+    :name: Apache Subversion
+    :web: https://en.wikipedia.org/wiki/Apache_Subversion
+    :version_test: Stable release
+  -
+    :name: Apache Tomcat
+    :web: https://en.wikipedia.org/wiki/Apache_Tomcat
+    :version_test: Stable release
+  -
+    :name: CentOS
+    :web: https://en.wikipedia.org/wiki/CentOS
+    :version_test: Latest release
+  -
+    :name: Debian
+    :web: https://en.wikipedia.org/wiki/Debian
+    :version_test: Latest release
+  -
+    :name: Docker
+    :web: https://en.wikipedia.org/wiki/Docker_(software)
+    :version_test: Stable release
+  -
+    :name: Git
+    :web: https://en.wikipedia.org/wiki/Git_(software)
+    :version_test: Stable release
+  -
+    :name: IBM AIX
+    :web: https://en.wikipedia.org/wiki/IBM_AIX
+    :version_test: Latest release
+  -
+    :name: IBM DB2
+    :web: https://en.wikipedia.org/wiki/IBM_DB2
+    :version_test: Stable release
+  -
+    :name: IBM FileNet
+    :web: http://www-01.ibm.com/software/support/lifecycle/index_f.html
+    :version_test: FileNet Content Manager
+  -
+    :name: IBM WebSphere Application Server
+    :web: https://en.wikipedia.org/wiki/IBM_WebSphere_Application_Server
+    :version_test: Stable release
+  -
+    :name: IBM Business Process Management
+    :web: http://www-01.ibm.com/software/websphere/support/lifecycle/
+    :version_test: IBM Business Process Manager Advanced
+  -
+    :name: IBM Security Access Manager
+    :web: http://www-01.ibm.com/software/support/lifecycleapp/PLCDetail.wss?psynkey=G576602K65079S21&synkey=A151058B04669K80&from=spf
+    :version_test: Version
+  -
+    :name: JBoss
+    :web: https://en.wikipedia.org/wiki/JBoss_Enterprise_Application_Platform
+    :version_test: Stable release
+  -
+    :name: Lucene
+    :web: https://en.wikipedia.org/wiki/Lucene
+    :version_test: Stable release
+  -
+    :name: MariaDB
+    :web: https://en.wikipedia.org/wiki/MariaDB
+    :version_test: Stable release
+  -
+    :name: Microsoft .NET Framework
+    :web: https://en.wikipedia.org/wiki/.NET_Framework
+    :version_test: Stable release
+  -
+    :name: Microsoft SQL Server
+    :web: https://en.wikipedia.org/wiki/Microsoft_SQL_Server
+    :version_test: Stable release
+  -
+    :name: Microsoft SQL Server Integration Services
+    :web: https://en.wikipedia.org/wiki/Microsoft_SQL_Server
+    :version_test: Stable release
+  -
+    :name: Microsoft SQL Server Reporting Services
+    :web: https://en.wikipedia.org/wiki/Microsoft_SQL_Server
+    :version_test: Stable release
+  -
+    :name: MongoDB
+    :web: https://en.wikipedia.org/wiki/MongoDB
+    :version_test: Stable release
+  -
+    :name: MySQL
+    :web: https://en.wikipedia.org/wiki/MySQL
+    :version_test: Stable release
+  -
+    :name: nginx
+    :web: https://en.wikipedia.org/wiki/Nginx
+    :version_test: Stable release
+  -
+    :name: Oracle Database
+    :web: https://en.wikipedia.org/wiki/Oracle_Database
+    :version_test: Stable release
+  -
+    :name: Oracle WebLogic Server
+    :web: https://en.wikipedia.org/wiki/Oracle_WebLogic_Server
+    :version_test: Stable release
+  -
+    :name: Perl
+    :web: https://en.wikipedia.org/wiki/Perl
+    :version_test: Stable release
+  -
+    :name: PHP
+    :web: https://en.wikipedia.org/wiki/PHP
+    :version_test: Stable release
+  -
+    :name: PostgreSQL
+    :web: https://en.wikipedia.org/wiki/PostgreSQL
+    :version_test: Stable release
+  -
+    :name: Python
+    :web: https://en.wikipedia.org/wiki/Python_(programming_language)
+    :version_test: Stable release
+  -
+    :name: RedHat Enterprise Linux
+    :web: https://en.wikipedia.org/wiki/Red_Hat_Enterprise_Linux
+    :version_test: Latest release
+  -
+    :name: Software AG WebMethods Integration Server
+    :web: https://en.wikipedia.org/wiki/WebMethods_Integration_Server#Release_history
+    :version_test:
+  -
+    :name: Solaris
+    :web: https://en.wikipedia.org/wiki/Solaris_(operating_system)
+    :version_test:
+  -
+    :name: Splunk
+    :web: http://www.splunk.com/en_us/download/splunk-enterprise.html
+    :version_test:
+  -
+    :name: Sybase Adaptive Server Enterprise
+    :web: https://en.wikipedia.org/wiki/Adaptive_Server_Enterprise
+    :version_test:
+  -
+    :name: Ubuntu
+    :web: https://en.wikipedia.org/wiki/Ubuntu_(operating_system)
+    :version_test:
+  -
+    :name: Zenoss
+    :web: https://en.wikipedia.org/wiki/Zenoss
+    :version_test:
