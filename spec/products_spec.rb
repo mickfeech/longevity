@@ -21,3 +21,16 @@ describe 'Longevity::Products.find' do
     expect(Longevity::Products.find('Tomcat').web).to eq('https://en.wikipedia.org/wiki/Apache_Tomcat')
   end
 end
+
+describe 'Longevity::Products.version' do
+  let(:product) { Longevity::Products.find('Tomcat') }
+
+  it 'responds' do
+    expect(Longevity::Products).to respond_to(:version)
+  end
+
+  it 'gets a version' do
+    expect(product.name).to eq('Apache Tomcat')
+  end
+
+end

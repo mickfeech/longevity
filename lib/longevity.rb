@@ -1,3 +1,6 @@
 require 'Hashie'
+require 'mechanize'
+require 'nokogiri'
 require 'longevity/version'
+require 'longevity/parser'
 require 'longevity/products'

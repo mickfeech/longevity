@@ -17,5 +17,9 @@ module Longevity
       end
     end
 
+    def self.version(product)
+      Longevity::Parser.parse_html(product)
+    end
+
   end
 end
