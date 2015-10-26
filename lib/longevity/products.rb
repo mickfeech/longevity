@@ -13,7 +13,7 @@ module Longevity
       search = products.deep_locate -> (key, value, object) { key == :name && value.include?(name) }
       if search.size == 1
         search = search.first
-        search.extend(Hashie::Extensions::MethodAccess)
+        Hashie::Mash.new search
       end
     end
 

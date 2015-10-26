@@ -9,13 +9,6 @@ describe 'Longevity::Products.all' do
     expect(Longevity::Products.all).to be_a_kind_of(Array)
   end
 
-  it 'has a specific product in the array' do
-    #expect(Longevity::Products.all.any? { |b| b['name'] == 'Apache HTTP Server' }).to be(true)
-  end
-
-  it 'has a web page to find the version' do
-    #expect(Longevity::Products.all.any? { |b| b['web'] == 'https://en.wikipedia.org/wiki/Apache_HTTP_Server' }).to be(true)
-  end
 end
 
 describe 'Longevity::Products.find' do
@@ -24,6 +17,7 @@ describe 'Longevity::Products.find' do
   end
 
   it 'finds specific products' do
-    puts Longevity::Products.find('Tomcat')
+    expect(Longevity::Products.find('Tomcat').name).to eq('Apache Tomcat')
+    expect(Longevity::Products.find('Tomcat').web).to eq('https://en.wikipedia.org/wiki/Apache_Tomcat')
   end
 end
